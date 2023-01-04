@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header&text=Hello🍭&animation=twinkling)
-<p align="center"> I Am Studying About Data Analysis. </p>
-<p align="center"> My Goal Is To Make People's Life More Happy.</p>
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hello🍭&animation=twinkling)
+<p align="center"> I Am Studying About Data Analysis.🤓 </p>
+<p align="center"> My Goal Is To Make People's Life More Happy.🌴</p>
 
 <h3 align="center">🌈 My Cute Tech Stack 🌈</h3>
 
