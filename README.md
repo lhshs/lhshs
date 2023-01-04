@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header&text=Hi :)&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header&text=Hi_:)&animation=twinkling)
 
 <h3 align="center">🌈 My Cute Tech Stack 🌈</h3>
 
