@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌈 My Cute Tech Stack 🌈</h3>
 
-<!-- <p align="center"> Techs that I've used at least once </p> -->
+<p align="center"> I Am Studying About Data Analysis </p>
+<p align="center"> My Goal Is To Make People's Life More Happy.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
