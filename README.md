@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌈 My Cute Tech Stack 🌈</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<!-- <p align="center"> Techs that I've used at least once </p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="center"> ⭐Me⭐ </h3>
+<h3 align="center"> ⭐Contact⭐ </h3>
 <p align="center">
   <a href="https://lhshs.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
   <a href="mailto:hs.lion2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
