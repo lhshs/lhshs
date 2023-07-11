@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=🍭&animation=twinkling)
-<p align="center"> I Am Studying About Data Analytics.🤓 </p>
+<p align="center"> I Am Studying About Data 🤓 </p>
 <p align="center"> Someday, I Would Like To Make People's Life More Happy.🌴</p>
 
 <h3 align="center">🌈 My Cute Tech Stack 🌈</h3>
