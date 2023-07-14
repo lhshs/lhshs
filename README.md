@@ -17,14 +17,17 @@ Here are some ideas to get you started:
 
 <h3> 🌱Learning About</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MySQL-EDCE60?style=flat-square&logo=MySql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-EDCE60?style=flat-square&logo=MySql&logoColor=white"/><br>
+  :D Data Analysis<br>
+  :D Data Engineering<br>
 </p>
 
 <h3> 🍭Interested In</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Mysql-EDCE60?style=flat-square&logo=MySql&logoColor=white"/></a>
+  :O Music Compose<br>
+  :O Video Edit<br>
+  :O Weight Training
 </p>
 
 <h3> 💌Contact</h3>
@@ -33,4 +36,3 @@ Here are some ideas to get you started:
   <a href="mailto:hs.lion2@gmail.com"><img src="https://img.shields.io/badge/Gmail-4086f4?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 <br>
-
