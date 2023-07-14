@@ -15,23 +15,24 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=🍭&animation=twinkling)
 -->
 
-<h3> 🌱Learning About</h3>
-<p>
+<h3 align = 'center'> 🌱Learning About</h3>
+<p align = 'center'>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-EDCE60?style=flat-square&logo=MySql&logoColor=white"/><br>
-  :D Data Analysis<br>
-  :D Data Engineering<br>
+   Data Analysis & Engineering<br>
 </p>
 
-<h3> 🍭Interested In</h3>
-<p>
-  :O Music Compose<br>
-  :O Video Edit<br>
-  :O Weight Training
+<br>
+
+<h3 align = 'center'> 🍭Interested In</h3>
+<p align = 'center'>
+  Music Compose & Video Edit & Weight Training
 </p>
 
-<h3> 💌Contact</h3>
-<p>
+<br>
+
+<h3 align = 'center'> 💌Contact</h3>
+<p align = 'center'>
   <a href="https://lhshs.tistory.com/"><img src="https://img.shields.io/badge/Blog-ff5a4a?style=flat-square&logo=Tistory&logoColor=white&"/>
   <a href="mailto:hs.lion2@gmail.com"><img src="https://img.shields.io/badge/Gmail-4086f4?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
