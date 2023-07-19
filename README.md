@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align = 'center'> 🍭Interested In</h3>
 <p align = 'center'>
-  Music Compose & Video Edit & Weight Training
+  🎹Music Compose & 📸Video Edit & Weight Training
 </p>
 
 <br>
