@@ -1,6 +1,6 @@
 <h3 align = 'center'>📚Learning About📚</h3>
 <p align = 'center'>
-   Data Analysis & Engineering<br>
+   Data Analysis<br>
 
 
 <!-- <h3 align = 'center'>🛠Tech🛠</h3>
