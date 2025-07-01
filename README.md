@@ -1,7 +1,3 @@
-<p align = 'center'>
-   Interested In Data <br>
-
-
 <!-- <h3 align = 'center'>🛠Tech🛠</h3>
 <p align = 'center'>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
